@@ -32,5 +32,7 @@ When I am not coding, I like to do the following:
 
 📫 **<luisfmendiola03@gmail.com>**
 
-[![linkedin](/linkedin.png)](https://www.linkedin.com/in/luis-mendiola03/) &ensp; [![instagram](/instagram.png)](https://www.instagram.com/luiiis_shoots/)  &ensp; [![facebook](/facebook.png)](https://facebook.com/luis.f.mendiola.98/)
+[![linkedin](/linkedin.png)](https://www.linkedin.com/in/luis-mendiola03/) &ensp; [![instagram](/instagram.png)](https://www.instagram.com/luiiis_shoots/)  &ensp; [![facebook](/facebook.png)](https://www.facebook.com/luis.f.mendiola.98/)
+
+*Icons made by [Freepik](https://www.freepik.com) from [FlatIcon](https://www.flaticon.com)*
 
