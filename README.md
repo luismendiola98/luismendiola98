@@ -28,6 +28,8 @@ When I am not coding, I like to do the following:
 
 ---
 
+<div align="center">
+  
 👉 **[luismendiola.com](https://luismendiola.com)**
 
 📫 **<luisfmendiola03@gmail.com>**
@@ -35,4 +37,4 @@ When I am not coding, I like to do the following:
 [![linkedin](/linkedin.png)](https://www.linkedin.com/in/luis-mendiola03/) &ensp; [![instagram](/instagram.png)](https://www.instagram.com/luiiis_shoots/)  &ensp; [![facebook](/facebook.png)](https://www.facebook.com/luis.f.mendiola.98/)
 
 *Icons made by [Freepik](https://www.freepik.com) from [FlatIcon](https://www.flaticon.com)*
-
+</div>
