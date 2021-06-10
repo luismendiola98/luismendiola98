@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**luismendiola98/luismendiola98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a noob in the world of Software Engineering with 1 year of experience looking to become the best possible Full Stack Software Engineer that I can be.
 
-Here are some ideas to get you started:
+I am familiar with the following technologies:
+* C#/ .NET
+* SQL
+* Python
+* C++
+* HTML
+* CSS
+* JavaScipt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning:
+* React.JS
+* Docker
+
+When I am not coding, I like to do the following:
+
+📸 photography
+
+🏋️‍♂️ staying active whether hiking or working out
+
+📖 reading
+
+👪 spending time with my loved ones
+
+***
+
+👉 Take a look at my **[personal site](https://luismendiola.com)**
+
+📫 You can reach me at: **<luisfmendiola03@gmail.com>**
+
+
