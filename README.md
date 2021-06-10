@@ -17,13 +17,14 @@ I am currently learning:
 
 When I am not coding, I like to do the following:
 
-📸 photography
+👪 spending time with my loved ones
 
 🏋️‍♂️ staying active whether hiking or working out
 
+📸 photography
+
 📖 reading
 
-👪 spending time with my loved ones
 
 ***
 
