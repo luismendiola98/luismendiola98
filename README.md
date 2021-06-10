@@ -19,7 +19,7 @@ When I am not coding, I like to do the following:
 
 👪 spending time with my loved ones
 
-🏋️‍♂️ staying active whether hiking or working out
+🏋️‍♂️ staying active by working out or hiking
 
 📸 photography
 
